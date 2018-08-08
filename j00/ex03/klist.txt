@@ -1,0 +1,5 @@
+Credentials cache: API:BD30A884-B92D-44B0-A865-4691220F3F96
+        Principal: judumay@42.FR
+
+		  Issued                Expires               Principal
+		  Jul  2 11:55:14 2018  Jul  9 11:55:02 2018  krbtgt/42.FR@42.FR
